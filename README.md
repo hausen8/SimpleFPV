@@ -3,7 +3,7 @@
 If you need a low cost FPV drone that can be built by almost anyone, here it is. 
 This drone can be either 3D printed or simply cut from plywood. It was designed to carry a FPV camera and/or thermal camera like the FLIR Vue.
 
-The drone can be equipped with almost any 7" or 8" motor/prop combination. Flight controllers with a 30x30mm hole pattern are recommended but boxed controllers like the old DJI NAZA will fit, too. Bhe battery size and voltage depends on the motors and motor controllers. Flight times up to 15 minutes with a lightweight cam are possible.higher payload will reduce the flight time.
+The drone can be equipped with almost any 7" or 8" motor/prop combination. If you have some old motors or ESCs, it is highly possible that you can use them. Flight controllers with a 30x30mm hole pattern are recommended but boxed controllers like the old DJI NAZA will fit, too. Bhe battery size and voltage depends on the motors and motor controllers. Flight times up to 15 minutes with a lightweight cam are possible.higher payload will reduce the flight time.
 
 **3D printed frame:**
 All files can be found in the STL folder. Depending on the ability of printing supports, there are two options included:
