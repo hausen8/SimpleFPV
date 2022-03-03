@@ -9,4 +9,4 @@ All files can be found in the STL folder. Depending on the ability of printing s
 2) Arm_2.stl / CP_lower_2.stl: These arms lead to a more rigid construction but they require some support that has to be removed after printing
 
 **Plywood frame:**
-All you need is Plywood-Parts.pdf. Print it with normal paper and stick it on the plywood. Note that depending on the material thickness (3mm or 4mm) there are two different versions of the lower center plate.
+All you need is Plywood-Parts.pdf. Print it with normal paper and stick it on the plywood. Note that depending on the material thickness (3mm or 4mm) there are two different versions of the lower center plate. Instead of making the top platform and the camera platform from two similar pieces that have to be glued to one big piece, you can also make one piece from 5mm or 6mm plywood.
