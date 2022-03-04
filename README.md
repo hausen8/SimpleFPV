@@ -6,7 +6,7 @@ This drone can be either 3D printed or simply cut from plywood. It was designed 
 The drone can be equipped with almost any 7" or 8" motor/prop combination. If you have some old motors or ESCs, it is highly possible that you can use them. Flight controllers with a 30x30mm hole pattern are recommended but boxed controllers like the old DJI NAZA will fit, too. The battery size and voltage depends on the motors and motor controllers. Flight times up to 15 minutes with a lightweight cam are possible. Higher payload will reduce the flight time.
 
 DIRECTORY                  | CONTENT
---------------------------------------------------------------------------------------
+---------------------------|----------------------------------------------------------
 /Plywood/                  | Directoy with all files for making the plywood version
 /Plywood/Manual_XX.pdf     | Manuals in different languages
 /Plywood/Plywood-N.png     | 3D Images of the drone
