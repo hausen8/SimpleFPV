@@ -8,7 +8,7 @@ The drone can be equipped with almost any 7" or 8" motor/prop combination. If yo
 DIRECTORY                        | CONTENT
 ---------------------------------|----------------------------------------------------------
 /3D-Print/                       | Directoy with all files for making the 3D printed version
-/§D-Print/3D-Print_manual_XX.pdf | Manuals in different languages
+/3D-Print/3D-Print_manual_XX.pdf | Manuals in different languages
 /3D-Print/STL                    | Sub directory containing all STL files
 /3D-Print/3D-Print-N.png         | 3D Images of the drone
 /Plywood/                        | Directoy with all files for making the plywood version
